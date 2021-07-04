@@ -27,7 +27,6 @@ The input looks like the following below.
 # API Output
 The API responds with total order cost.
 
-# Instructions to run the code
  
   # Install all Dependencies and modules using command
     pip install -r requirements.txt
